@@ -6,4 +6,8 @@ function trocaBanner() {
   document.querySelector(’h2#mensagem’).textContent =
     banners[bannerAtual];
 }
+<<<<<<< HEAD
 setInterval(trocaBanner, 3000);
+=======
+setInterval(trocaBanner, 4000);
+>>>>>>> design
